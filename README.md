@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi! Nice to See You 👋
 
 ## I'm kkenshin (Mingjun Jiang)
 
