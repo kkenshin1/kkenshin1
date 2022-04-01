@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm kkenshin! 👋
+
+A graduate student at SJTU.
+
+🌱 I’m currently learning ...
 
 <!--
 **kkenshin1/kkenshin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
