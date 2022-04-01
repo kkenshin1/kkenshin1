@@ -17,7 +17,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-c5b8a5?style=flat)
 
 ## Open Source Project
-- ![Binocular Depth Estimation](https://github.com/kkenshin1/Binocular-Depth-Estimation): Calculate depth of field using different cost functions(SAD/NCC/SHD) based on MATLAB
+- ![Binocular Depth Estimation](https://github.com/kkenshin1/Binocular-Depth-Estimation) :&ensp;&ensp;Calculate depth of field using different cost functions(SAD/NCC/SHD) based on MATLAB
+- 
 
 
 
