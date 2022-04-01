@@ -16,7 +16,7 @@
 ![OpenVINO](https://img.shields.io/badge/-OpenVINO-c5b8a5?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-c5b8a5?style=flat)
 
-## Open Source Projec
+## Open Source Project
 
 
 <!--
