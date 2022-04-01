@@ -18,6 +18,11 @@
 
 ## Open Source Project
 - ![Binocular Depth Estimation](https://github.com/kkenshin1/Binocular-Depth-Estimation) :&ensp;&ensp;Calculate depth of field using different cost functions(SAD/NCC/SHD) based on MATLAB
+
+
+## Currently Working on...
+- learning Computer Architecture
+- learning IC Verification and UVM
 - 
 
 
