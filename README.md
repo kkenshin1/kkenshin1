@@ -7,7 +7,7 @@
 - 🌱 Currently Working on Graduation Project: Hardware Accelerator for BWA-MEN
 - 📫 Connect with Me: <jiangmingjun9@outlook.com>
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack 🛠 
 ![Verilog](https://img.shields.io/badge/-Verilog-c5b8a5?style=flat)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-c5b8a5?style=flat)
 ![C](https://img.shields.io/badge/-C%2FC%2B%2B-c5b8a5?style=flat)
@@ -22,9 +22,9 @@
 
 
 ## Currently Working on
-- doing Graduation Project
-- learning Computer Architecture
-- learning IC Verification and UVM
+- Doing Graduation Project
+- Learning Computer Architecture
+- Learning IC Design and Verification
 - ......
 
 
