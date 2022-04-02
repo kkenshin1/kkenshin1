@@ -18,6 +18,7 @@
 
 ## Open Source Project
 - ![Binocular Depth Estimation](https://github.com/kkenshin1/Binocular-Depth-Estimation) :&ensp;&ensp;Calculate depth of field using different cost functions(SAD/NCC/SHD) based on MATLAB
+- ![OpenVINO Mobilenetv2_SSD MultiNCS2](https://github.com/kkenshin1/OpenVINO-Mobilenetv2_SSD-MultiNCS2) :&ensp;&ensp;Accelerate MobileNetV2-SSD on Intel CPU and Neural Compute Stick2 based on OpenVINO
 
 
 ## Currently Working on...
