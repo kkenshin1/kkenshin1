@@ -4,7 +4,7 @@
 
 - ⭐ An Intergrated Circuit Engineering Graduate Student at SJTU.
 - 🔭 Interested in Digital IC Design/Verification and FPGA Heterogeneous Computing
-- 🌱 Currently Working on Graduation Project: Hardware Accelerator for BWA-MEN
+- 🌱 Currently Working on Graduation Project: Hardware Accelerator for BWA-MEM
 - 📫 Connect with Me: <jiangmingjun9@outlook.com>
 
 ## Tech Stack 🛠 
