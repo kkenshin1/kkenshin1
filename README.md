@@ -23,7 +23,7 @@
 
 ## Currently Working on
 - Doing Graduation Project
-- Learning Computer Architecture
+- Learning Computer Architecture and Computer Network
 - Learning IC Design and Verification
 - ......
 
