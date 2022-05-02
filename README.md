@@ -1,6 +1,6 @@
 # Hey! Nice to See You 👋
 
-## I'm kkenshin (Mingjun Jiang)
+## I'm Mingjun Jiang
 
 - ⭐ An Intergrated Circuit Engineering Graduate Student at SJTU
 - 🔭 Interested in Digital IC Design/Verification and FPGA Heterogeneous Computing
@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✨ An Graduate FPGA Developer Intern at Optiver
 -->
