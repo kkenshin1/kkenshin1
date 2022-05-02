@@ -13,7 +13,7 @@
 ![C](https://img.shields.io/badge/-C%2FC%2B%2B-c5b8a5?style=flat)
 ![UVM](https://img.shields.io/badge/-UVM-c5b8a5?style=flat)
 ![OpenCL](https://img.shields.io/badge/-OpenCL-c5b8a5?style=flat)
-![CUDA](https://img.shields.io/badge/-OpenCL-c5b8a5?style=flat)
+![CUDA](https://img.shields.io/badge/-CUDA-c5b8a5?style=flat)
 ![OpenVINO](https://img.shields.io/badge/-OpenVINO-c5b8a5?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-c5b8a5?style=flat)
 
