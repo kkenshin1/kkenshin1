@@ -2,15 +2,16 @@
 
 ## I'm Mingjun Jiang
 
-- ⭐ An Intergrated Circuit Engineering Graduate Student at SJTU
+- ⭐ A Graduate FPGA Developer at Optiver
+- ✨ Graduated from SJTU with a master's degree in Intergrated Circuit Design
 - 🔭 Interested in Digital IC Design/Verification and FPGA Heterogeneous Computing
-- 🌱 Currently Working on Graduation Project: Hardware Accelerator for BWA-MEM
+- 🌱 Focus on CPU-FPGA Co-design to accelerate domain specific algorithm including Machine Learning and Bioinformatics
 - 📫 Connect with Me: <jiangmingjun9@outlook.com>
 
 ## Tech Stack 🛠 
 ![Verilog](https://img.shields.io/badge/-Verilog-c5b8a5?style=flat)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-c5b8a5?style=flat)
-![C](https://img.shields.io/badge/-C%2FC%2B%2B-c5b8a5?style=flat)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-c5b8a5?style=flat)
 ![UVM](https://img.shields.io/badge/-UVM-c5b8a5?style=flat)
 ![OpenCL](https://img.shields.io/badge/-OpenCL-c5b8a5?style=flat)
 ![CUDA](https://img.shields.io/badge/-CUDA-c5b8a5?style=flat)
@@ -24,9 +25,10 @@
 
 
 ## Currently Working on
-- Doing Graduation Project
+- Working at Optiver as Graduate FPGA Developer
 - Learning Computer Architecture and Computer Network
 - Learning IC Design and Verification
+- Learning Software Knowledge and Tarding Knowledge
 - ......
 
 
