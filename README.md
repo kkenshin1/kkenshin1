@@ -3,7 +3,7 @@
 ## I'm Mingjun Jiang
 
 - ⭐ A Graduate FPGA Developer at Optiver
-- ✨ Graduated from SJTU with a master's degree in Intergrated Circuit Design
+- ✨ Graduated from SJTU with a master's degree in Intergrated Circuit Engineering
 - 🔭 Interested in Digital IC Design/Verification and FPGA Heterogeneous Computing
 - 🌱 Focus on CPU-FPGA Co-design to accelerate domain specific algorithm including Machine Learning, Bioinformatics and High Frequency Trading
 - 📫 Connect with Me: <jiangmingjun9@outlook.com>
